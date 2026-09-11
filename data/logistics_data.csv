@@ -1,0 +1,32 @@
+shipment_id,origin,destination,transport_mode,shipment_date,delivery_date,status,distance_km,weight_kg,inventory_units,traffic,weather,shipping_cost
+SHP001,Delhi,Lucknow,Road,2026-08-01,2026-08-03,Delivered,420,12,650,Medium,Clear,1200
+SHP002,Mumbai,Pune,Road,2026-08-02,2026-08-04,Delivered,150,8,320,Low,Clear,700
+SHP003,Delhi,Jaipur,Road,2026-08-03,2026-08-08,Delayed,280,15,480,High,Rain,1100
+SHP004,Kolkata,Patna,Rail,2026-08-03,2026-08-06,Delivered,530,20,800,Medium,Cloudy,900
+SHP005,Bengaluru,Hyderabad,Road,2026-08-04,2026-08-07,Delivered,570,10,540,Low,Clear,950
+SHP006,Chennai,Bengaluru,Air,2026-08-04,2026-08-05,Delivered,350,,120,Low,Clear,2100
+SHP007,Delhi,Agra,Road,2026-08-05,2026-08-06,Delivered,230,7,260,Medium,Clear,500
+SHP008,Mumbai,Ahmedabad,Road,2026-08-05,2026-08-07,Delivered,530,11,430,High,Rain,850
+SHP009,Hyderabad,Vijayawada,Road,2026-08-06,2026-08-08,Delivered,275,9,300,Low,Clear,620
+SHP010,Pune,Nagpur,Rail,2026-08-06,2026-08-10,Delayed,710,25,900,High,Storm,1300
+SHP011,Delhi,Chandigarh,Road,2026-08-07,2026-08-09,Delivered,245,13,390,Medium,Cloudy,680
+SHP012,Jaipur,Delhi,Road,2026-08-07,2026-08-10,Delayed,620,18,510, high ,Rain,980
+SHP013,Kochi,Coimbatore,Road,2026-08-08,2026-08-10,Delivered,190,6,240,Low,Clear,550
+SHP014,Surat,Mumbai,Road,2026-08-08,2026-08-09,Delivered,280,14,350,Medium,Clear,590
+SHP015,Patna,Ranchi,Road,2026-08-09,2026-08-12,Delivered,330,16,460,Medium,Cloudy,720
+SHP016,Lucknow,Kanpur,Road,2026-08-09,2026-08-11,Delivered,90,7,210,Low,Clear,450
+SHP017,Delhi,Varanasi,Rail,2026-08-10,2026-08-15,Delayed,800,30,760,High,Rain,1250
+SHP018,Bengaluru,Chennai,Road,2026-08-10,2026-08-12,Delivered,350,9,310,Medium,Clear,640
+SHP019,Mumbai,Goa,Road,2026-08-11,2026-08-14,Delivered,590,12,280,Medium,Rain,780
+SHP020,Hyderabad,Bengaluru,Air,2026-08-11,2026-08-12,Delivered,570,4,90,Low,Clear,1900
+SHP021,Ahmedabad,Jaipur,Road,2026-08-12,2026-08-14,Delivered,540,17,420,Medium,rain,760
+SHP022,Kolkata,Bhubaneswar,Road,2026-08-12,2026-08-14,Delivered,440,19,500,Medium,Rain,820
+SHP023,Delhi,Noida,Road,2026-08-13,2026-08-14,Delivered,35,5,180,High,Clear,420
+SHP024,Pune,Mumbai,Road,2026-08-13,2026-08-15,Delivered,150,8,300,Medium,Clear,560
+SHP025,Chennai,Madurai,Road,2026-08-14,2026-08-16,Delivered,460,10,260,Low,Cloudy,
+SHP026,Delhi,Kolkata,Air,2026-08-14,2026-08-16,Delivered,1300,6,140,Low,Clear,2800
+SHP027,Jaipur,Udaipur,Road,2026-08-15,2026-08-17,Delivered,400,9,250,Medium,Clear,570
+SHP028,Ranchi,Patna,Road,2026-08-15,2026/08/18,Delayed,330,14,370,High,Rain,690
+SHP029,Lucknow,Delhi,Road,2026-08-16,2026-08-18,Delivered,550 km,12,410,Medium,Clear,730
+SHP030,Bengaluru,Mysuru,Road,2026-08-16,2026-08-17,Delivered,145,8,230,Low,Clear,480
+SHP003,Delhi,Jaipur,Road,2026-08-03,2026-08-08,Delayed,280,15,480,High,Rain,1100
